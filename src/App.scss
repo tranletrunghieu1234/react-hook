@@ -1,3 +1,35 @@
-.App {
-  color: deeppink;
+// .App {
+//   color: deeppink;
+// }
+.boder {
+  border: 2px solid black;
+  width: 400px;
+  font-size: 20px;
+  background-color: grey;
+
+  position: relative;
+  left: 550px;
+}
+.text-center {
+  text-align: center;
+}
+.buttonNext {
+  height: 50px;
+  width: 100px;
+  background-color: blue;
+  font-size: 20px;
+  margin: 15px;
+}
+.buttonPrev {
+  height: 50px;
+  width: 100px;
+  background-color: grey;
+  font-size: 20px;
+}
+.search {
+  position: relative;
+  left: 550px;
+  bottom: 10px;
+  width: 500px;
+  border: 2px solid black;
 }
